@@ -8,8 +8,7 @@
   - [Visualization in Python](https://colab.research.google.com/drive/10YxOk4DIGmLw-ciz4IuzVSkY2IzbLJwA) </b></i>
 
   - 
-- <b>Certification</b>
-<img width="350" alt="pqplus certificate" src="https://github.com/odosa-osifo/odosa-osifo/assets/168784890/c45a8e5d-df7c-4a12-b4e0-eb6ee1590ce5">
+
 
 
 
