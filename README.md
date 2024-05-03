@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Pandas and DataFrame Practice </b>
-  - [Praciting DataFrame in Python](https://colab.research.google.com/drive/10GYAjd0NIpijw1_XDHd1xsqRqILKXYpy)
+  - [Practicing DataFrame in Python](https://colab.research.google.com/drive/10GYAjd0NIpijw1_XDHd1xsqRqILKXYpy)
 - <b>Visualizations  </b>
   - [Visualization in Python](https://colab.research.google.com/drive/10YxOk4DIGmLw-ciz4IuzVSkY2IzbLJwA) </b></i>
 
