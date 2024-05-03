@@ -7,7 +7,7 @@
 - <b>Visualizations  </b>
   - [Visualization in Python](https://colab.research.google.com/drive/10YxOk4DIGmLw-ciz4IuzVSkY2IzbLJwA) </b></i>
 
-  - 
+  -[Visualization in Power BI] (https://github.com/odosa-osifo/Visualization-on-Power-BI-)
 
 
 
